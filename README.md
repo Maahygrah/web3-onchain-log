@@ -71,6 +71,10 @@ Update 1
 
 * **Subsequent** (adjective): Coming after something in time; following. *Example:* "The initial security upgrade successfully isolated the compromised smart contract, and all subsequent transactions proceeded without any network latency."
 
+## Section 6: On-Chain Governance & DAO Operations
+* **Decentralized Governance Frameworks:** The structural pipeline where community proposals progress from off-chain discussion forums to Snapshot signaling polls, culminating in binding, on-chain execution via multi-signature smart contracts.
+
+
 
 
 
