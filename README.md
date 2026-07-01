@@ -80,6 +80,8 @@ Update 1
 
 * **Equal Highs / Equal Lows (EQH / EQL):** Chart formations where price peaks or troughs flatten out at nearly identical price levels. These formations represent highly visible engineering of liquidity, as buy-stops or sell-stops build up heavily beyond them, acting as magnets for future sweeping price moves.
 
+* **Feasible** (adjective): Possible to do easily or conveniently; practical. *Example:* "With the integration of automated security verification tools, managing a high-volume discord server with a lean team becomes completely feasible."
+
 
 
 
