@@ -57,6 +57,8 @@ Update 1
 * **Lucid** (adjective): Expressed clearly; easy to understand. *Example:* "Providing lucid documentation during a smart contract upgrade prevents panic and keeps community trust intact."
 
 * **Tiered Role Architecture:** A community structuring method that automatically awards distinct Discord or Telegram roles based on verified on-chain milestones, driving sustained user participation through social status.
+* **Mitigation Block:** A market structure setup that forms when an asset fails to create a higher high (in a bullish setup) or a lower low (in a bearish setup) before breaking market structure. Traders track this specific order block as an immediate area to mitigate risk on retest.
+
 
 
 
