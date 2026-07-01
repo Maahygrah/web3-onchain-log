@@ -125,6 +125,9 @@ Update 1
 
 * **Net-New Participant Tracking:** An analytical framework designed to filter out existing active wallets from brand-new ecosystem participants during testnet campaigns, ensuring marketing budgets are efficiently driving true protocol expansion.
 
+* **Algorithmic Kill Zones:** Specific high-volatility time windows (such as the London Open or New York Open) where institutional trading algorithms are most active. These windows often feature aggressive liquidity sweeps to trap retail traders before establishing the true daily market trend.
+
+
 
 
 
