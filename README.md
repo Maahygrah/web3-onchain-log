@@ -52,6 +52,8 @@ Update 1
 
 * **Incentive Alignment Design:** The deliberate structuring of a protocol's testnet rewards or ecosystem campaigns to ensure that community growth activities directly drive long-term network value rather than attracting temporary mercenary capital.
 
+* **Equilibrium Level:** The exact 50% mark of a defined trading range. It acts as the fair value price boundary where supply and demand are perfectly balanced. Traders use it to determine whether an asset is overextended or safely priced.
+
 
 
 
