@@ -113,6 +113,8 @@ Update 1
 * **Proof-of-Contribution Framework:** An adversarial-resistant vetting protocol that scores community testnet participants based on unique GitHub code contributions, localized technical translations, or detailed bug documentation to isolate and exclude mass-automated bot farms.
 * **Sticky Engagement Architecture:** A framework built to drive platform stickiness by mapping product milestones directly to interactive incentives, ensuring users return daily rather than churning after a single transaction.
 
+* **Market Inefficiency (Displacement):** A severe structural imbalance created when aggressive institutional buying or selling forces price rapidly through multiple levels, leaving behind an unfilled Fair Value Gap (FVG) that the market will naturally seek to rebalance later.
+
 
 
 
