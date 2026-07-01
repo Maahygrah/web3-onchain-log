@@ -107,6 +107,8 @@ Update 1
 
 * **True Range Expansion (TRE):** A condition where consecutive candles show a massive increase in average body size with minimal wicks, signaling that institutional algorithmic orders have taken complete control of order flow and are rapidly driving price to target liquidity zones.
 
+* **Empirical** (adjective): Based on, concerned with, or verifiable by observation or experience rather than theory or pure logic. *Example:* "A professional community manager relies on empirical data—such as weekly wallet activity and message retention rates—to gauge campaign success rather than simple speculation."
+
 
 
 
