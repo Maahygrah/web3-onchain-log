@@ -73,6 +73,8 @@ Update 1
 
 ## Section 6: On-Chain Governance & DAO Operations
 * **Decentralized Governance Frameworks:** The structural pipeline where community proposals progress from off-chain discussion forums to Snapshot signaling polls, culminating in binding, on-chain execution via multi-signature smart contracts.
+* **Change of Character (CHoCH):** The first internal indication of a potential trend reversal on a lower timeframe. It occurs when price breaks a minor internal swing high or low, signaling a shift in market sentiment before a major market structure break takes place.
+
 
 
 
