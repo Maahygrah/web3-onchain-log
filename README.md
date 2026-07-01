@@ -123,6 +123,8 @@ Update 1
 
 * **Fortitude** (noun): Courage in pain or adversity. *Example:* "Maintaining structural focus and professional consistency requires immense fortitude when community sentiment becomes highly volatile during broader market corrections."
 
+* **Net-New Participant Tracking:** An analytical framework designed to filter out existing active wallets from brand-new ecosystem participants during testnet campaigns, ensuring marketing budgets are efficiently driving true protocol expansion.
+
 
 
 
