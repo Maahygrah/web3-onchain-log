@@ -170,6 +170,7 @@ Update 1
 * **Proponent** (noun): A person who advocates a theory, proposal, or project. *Example:* "As a strong proponent of decentralized governance, the lead community manager worked to ensure every active participant had an equal voice in the forum."
 
 * **Post-Incident Forensic Auditing:** A standardized post-crisis procedure requiring a complete line-by-line review of system smart contracts, moderation logs, and webhook configurations to patch security vulnerabilities immediately following a minor exploit.
+* **Volatility-Induced Slippage:** A decentralized execution dynamic where thin order book liquidity combined with aggressive institutional displacement forces a trade to execute at a significantly less favorable price than expected, emphasizing the importance of setting strict slippage tolerances during high-impact market structure shifts.
 
 
 
