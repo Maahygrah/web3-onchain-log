@@ -103,6 +103,8 @@ Update 1
 
 * **Autonomous** (adjective): Having the freedom to act independently; self-governing. *Example:* "Smart contracts allow community reward systems to operate in an autonomous manner, executing distributions automatically once users achieve specific on-chain milestones."
 * **Dynamic FAQ Architecture:** An operational knowledge-base framework that maps common community support questions to automated AI-driven responses, freeing up core moderators to focus on critical technical support tickets.
+* **True Range Expansion (TRE):** A condition where consecutive candles show a massive increase in average body size with minimal wicks, signaling that institutional algorithmic orders have taken complete control of order flow and are rapidly driving price to target liquidity zones.
+
 
 
 
