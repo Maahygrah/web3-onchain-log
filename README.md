@@ -63,6 +63,9 @@ Update 1
 
 * **On-Chain Reputation Scoring:** A community verification protocol that calculates a wallet's historical transaction frequency, gas consumption, and active age across multiple layers to filter out automated bot networks and ensure rewards reach genuine contributors.
 
+* **Swing High / Swing Low Mechanics:** A structural chart pattern where a single peak candle is flanked by two lower high candles (Swing High), or a single trough candle is flanked by two higher low candles (Swing Low). These form the structural anchors used to define clean market trends.
+
+
 
 
 
