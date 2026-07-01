@@ -160,6 +160,9 @@ Update 1
 * **Cross-Chain Infrastructure Monitoring:** An operational framework utilizing automated indexing nodes to track cross-chain asset bridges and transaction volumes in real-time, allowing core operators to detect smart contract anomalies instantly.
 * **Daily Bias Framework:** An institutional analysis process used to determine the highest-probability direction of the daily candle by examining higher-timeframe order flow, liquidity draws, and market structure shifts on the daily chart.
 * **Exemplary** (adjective): Serving as a desirable model; representing the best of its kind. *Example:* "Maintaining polite, fast, and highly technical support in public channels provides an exemplary standard for onboarding new community members."
+## Section 11: Crisis Management & Incident Response
+* **Incident Communication Protocol:** A structured public relations and moderation blueprint designed to instantly lock down compromised discord channels, deploy unified status updates, and provide clear on-chain instructions during an exploit or network outage.
+
 
 
 
