@@ -121,6 +121,7 @@ Update 1
 
 
 
+* **Fortitude** (noun): Courage in pain or adversity. *Example:* "Maintaining structural focus and professional consistency requires immense fortitude when community sentiment becomes highly volatile during broader market corrections."
 
 
 
