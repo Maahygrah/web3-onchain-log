@@ -142,6 +142,7 @@ Update 1
 * **Breaker Block Mitigation:** A structural market event where a failed order block—one that was blown through during an aggressive liquidity sweep—is retested by price from the opposite side. This zone transitions into a powerful entry block as institutional flow flips from sell to buy (or buy to sell).
 
 
+* **Exhaustive** (adjective): Examining, including, or considering all elements or aspects; fully comprehensive. *Example:* "Conducting an exhaustive review of smart contract transaction logs is necessary to ensure every eligible wallet address is captured prior to a testnet phase transition."
 
 
 
