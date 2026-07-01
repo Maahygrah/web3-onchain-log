@@ -17,3 +17,8 @@ Update 1
 * **Mitigate** (verb): To make something less severe, dangerous, or serious. *Example:* "Implementing robust, multi-tier on-chain criteria helps mitigate the risk of automated bot clusters diluting airdrop distributions."
 
 
+
+## Section 3: Community Growth Metrics
+* **DAU / WAU Ratio:** The ratio of Daily Active Users to Weekly Active Users. This metric helps measure community retention and engagement, showing if members return daily or only drop in for occasional campaigns.
+
+
