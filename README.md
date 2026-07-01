@@ -76,6 +76,7 @@ Update 1
 * **Change of Character (CHoCH):** The first internal indication of a potential trend reversal on a lower timeframe. It occurs when price breaks a minor internal swing high or low, signaling a shift in market sentiment before a major market structure break takes place.
 
 * **Prerequisite** (noun): A thing that is required as a prior condition for something else to happen or exist. *Example:* "Verifying a wallet address and achieving an active role status is a prerequisite for participating in the upcoming incentivized testnet campaign."
+* **Asymmetric Information Dissemination:** An operational strategy to ensure critical project updates, tokenomics structural changes, or testnet launch dates are distributed uniformly across all channels simultaneously, protecting the community from insider advantages.
 
 
 
