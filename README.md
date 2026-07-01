@@ -184,6 +184,7 @@ Update 1
 
 * **Engineered Liquidity Pools:** A market phenomenon where algorithmic price delivery intentionally creates relatively equal highs or equal lows, enticing retail traders to place heavy stop-loss clusters just above or below these levels so that institutional orders can buy or sell deep volume smoothly.
 
+* **Unprecedented** (adjective): Never done or known before. *Example:* "Managing an on-chain community network that hits over one million active transactions in its first week requires handling an unprecedented amount of technical support data."
 
 
 
