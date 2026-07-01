@@ -109,6 +109,8 @@ Update 1
 
 * **Empirical** (adjective): Based on, concerned with, or verifiable by observation or experience rather than theory or pure logic. *Example:* "A professional community manager relies on empirical data—such as weekly wallet activity and message retention rates—to gauge campaign success rather than simple speculation."
 
+## Section 8: Sybil Defense & Ecosystem Integrity
+* **Proof-of-Contribution Framework:** An adversarial-resistant vetting protocol that scores community testnet participants based on unique GitHub code contributions, localized technical translations, or detailed bug documentation to isolate and exclude mass-automated bot farms.
 
 
 
