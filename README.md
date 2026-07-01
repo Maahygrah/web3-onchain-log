@@ -148,6 +148,8 @@ Update 1
 
 * **Rejection Block:** A specific chart pattern located at the extreme upper wick of a swing high or lower wick of a swing low. It represents a price zone where aggressive institutional orders instantly rejected price, leaving long wicks that serve as key targets for future liquidity sweeps.
 
+* **Imperative** (adjective): Of vital importance; crucial. *Example:* "It is imperative for web3 community managers to maintain open and clear lines of communication with core developers during a major testnet phase rollout."
+
 
 
 
