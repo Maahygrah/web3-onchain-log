@@ -61,6 +61,8 @@ Update 1
 
 * **Implicit** (adjective): Implied though not plainly or directly expressed. *Example:* "By engaging actively in decentralized testnets, participants hold an implicit understanding of the technical risks involved in early-stage smart contracts."
 
+* **On-Chain Reputation Scoring:** A community verification protocol that calculates a wallet's historical transaction frequency, gas consumption, and active age across multiple layers to filter out automated bot networks and ensure rewards reach genuine contributors.
+
 
 
 
