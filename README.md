@@ -44,6 +44,8 @@ Update 1
 
 * **Coherent** (adjective): Logical, consistent, and completely clear. *Example:* "A community manager must present a coherent roadmap to long-term token holders to ensure project credibility during volatile market phases."
 
+* **Onboarding Friction Minimization:** The systematic reduction of technical setup steps required for a new user to interact with a Web3 platform, often achieved by utilizing embedded wallets or gasless transactions to maximize user retention.
+
 
 
 
