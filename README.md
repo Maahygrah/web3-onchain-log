@@ -96,6 +96,7 @@ Update 1
 
 * **Volume Profile Point of Control (POC):** The specific price level within a defined trading range where the highest volume of shares or contracts was traded. This zone represents the maximum fair value agreed upon by market participants and acts as a major structural support or resistance pivot.
 
+* **Efficacy** (noun): The ability to produce a desired or intended result. *Example:* "Regular testing of decentralized application verification steps is necessary to ensure the efficacy of anti-bot bot filters during high-traffic campaign deployments."
 
 
 
