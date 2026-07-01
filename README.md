@@ -134,6 +134,9 @@ Update 1
 * **Smart Money Technique (SMT) Divergence:** A crack in correlation between closely related assets (such as Bitcoin and Ethereum). It occurs when one asset fails to make a higher high or lower low while the other asset succeeds, signaling heavy institutional accumulation or distribution behind the scenes.
 * **Eradicate** (verb): Destroy completely; put an end to. *Example:* "Implementing automated token-gating verification is one of the most effective ways to eradicate spam links from community support channels."
 
+* **Granular Documentation Blueprint:** A technical writing standard that breaks down highly complex smart contract processes or node setup requirements into scannable, step-by-step instructions to prevent user error during technical rollouts.
+
+
 
 
 
