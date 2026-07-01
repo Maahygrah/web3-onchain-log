@@ -146,6 +146,8 @@ Update 1
 ## Section 10: Treasury Management & Operational Security
 * **Multi-Signature Coordination Protocols:** A multi-layered operational safeguard that mandates a minimum consensus threshold (e.g., a 3-of-5 signature requirement) among designated core contributors before any programmatic movement of public treasury or ecosystem development assets can be executed on-chain.
 
+* **Rejection Block:** A specific chart pattern located at the extreme upper wick of a swing high or lower wick of a swing low. It represents a price zone where aggressive institutional orders instantly rejected price, leaving long wicks that serve as key targets for future liquidity sweeps.
+
 
 
 
