@@ -94,6 +94,7 @@ Update 1
 ## Section 7: Ambassador Programs & Distributed Leadership
 * **Tiered Ambassador Structuring:** An operational framework that scales global community reach by dividing active contributors into specialized cohorts (e.g., content creators, technical moderators, translators) with performance-based monthly distribution keys.
 
+* **Volume Profile Point of Control (POC):** The specific price level within a defined trading range where the highest volume of shares or contracts was traded. This zone represents the maximum fair value agreed upon by market participants and acts as a major structural support or resistance pivot.
 
 
 
