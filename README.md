@@ -35,4 +35,7 @@ Update 1
 
 * **Premium vs. Discount Zones:** An analysis rule using a Fibonacci retracement tool to divide a price range at the 50% equilibrium level. Buying in the discount zone (below 50%) offers lower risk, while selling occurs in the premium zone (above 50%).
 
+* **Ambiguous** (adjective): Open to more than one interpretation; having a double meaning or unclear direction. *Example:* "To avoid user confusion, community rules must never be ambiguous during complex testnet distributions."
+
+
 
