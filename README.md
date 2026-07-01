@@ -173,6 +173,7 @@ Update 1
 * **Volatility-Induced Slippage:** A decentralized execution dynamic where thin order book liquidity combined with aggressive institutional displacement forces a trade to execute at a significantly less favorable price than expected, emphasizing the importance of setting strict slippage tolerances during high-impact market structure shifts.
 
 
+* **Meticulous** (adjective): Showing great attention to detail; very careful and precise. *Example:* "Conducting a meticulous audit of discord webhook permissions is vital to prevent unauthorized bots from publishing malicious links in announcement channels."
 
 
 
