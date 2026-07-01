@@ -88,6 +88,9 @@ Update 1
 * **Conducive** (adjective): Making a certain situation or outcome likely or possible. *Example:* "Fostering an open, helpful environment where active testing is rewarded is highly conducive to building a loyal Web3 user base."
 * **Quantitative Sentiment Analysis:** The metric-driven process of scraping chat frequencies, emoji reactions, and keyword trends across public discord channels to calculate community mood shifts before a major dApp rollout.
 
+* **Reclaimed Order Block:** A historical order block zone that price previously breached without immediate reaction, but later acts as a highly validated support or resistance level when price returns to it during a sustained trend.
+
+
 
 
 
