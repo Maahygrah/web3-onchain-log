@@ -31,4 +31,5 @@ Update 1
 
 * **Adhere** (verb): To believe in and follow the practices of, or to stick fast to a rule or standard. *Example:* "Community moderators must strictly adhere to the operational safety protocols to maintain project integrity during high-traffic testnet campaigns."
 
+* **On-Chain Attestation:** A cryptographic proof or digital credential deployed on-chain that verifies a user's real-world identity or specific wallet activity without exposing private data, serving as a powerful layer against bot clusters.
 
