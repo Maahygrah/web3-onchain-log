@@ -85,6 +85,7 @@ Update 1
 
 * **Inducement Mechanics:** A market structure trapping mechanism where price purposefully breaks a minor internal short-term low or high to trick early retail traders into opening positions before smart money reverses the price direction to sweep their stops.
 
+* **Conducive** (adjective): Making a certain situation or outcome likely or possible. *Example:* "Fostering an open, helpful environment where active testing is rewarded is highly conducive to building a loyal Web3 user base."
 
 
 
