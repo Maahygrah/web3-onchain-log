@@ -48,6 +48,8 @@ Update 1
 
 * **Breaker Block (BB):** A failed order block that price aggressively pushes through during a market structure break. Once broken, this zone flips its role—a bearish order block becomes a bullish support level, or vice versa when retested.
 
+* **Pragmatic** (adjective): Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations. *Example:* "Taking a pragmatic approach to moderate scaling helps a community manager optimize response times during peak network congestion."
+
 
 
 
