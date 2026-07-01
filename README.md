@@ -105,6 +105,9 @@ Update 1
 * **Dynamic FAQ Architecture:** An operational knowledge-base framework that maps common community support questions to automated AI-driven responses, freeing up core moderators to focus on critical technical support tickets.
 * **True Range Expansion (TRE):** A condition where consecutive candles show a massive increase in average body size with minimal wicks, signaling that institutional algorithmic orders have taken complete control of order flow and are rapidly driving price to target liquidity zones.
 
+* **True Range Expansion (TRE):** A condition where consecutive candles show a massive increase in average body size with minimal wicks, signaling that institutional algorithmic orders have taken complete control of order flow and are rapidly driving price to target liquidity zones.
+
+
 
 
 
