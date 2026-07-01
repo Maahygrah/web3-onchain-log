@@ -46,6 +46,8 @@ Update 1
 
 * **Onboarding Friction Minimization:** The systematic reduction of technical setup steps required for a new user to interact with a Web3 platform, often achieved by utilizing embedded wallets or gasless transactions to maximize user retention.
 
+* **Breaker Block (BB):** A failed order block that price aggressively pushes through during a market structure break. Once broken, this zone flips its role—a bearish order block becomes a bullish support level, or vice versa when retested.
+
 
 
 
