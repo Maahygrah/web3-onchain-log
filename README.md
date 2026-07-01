@@ -54,6 +54,7 @@ Update 1
 
 * **Equilibrium Level:** The exact 50% mark of a defined trading range. It acts as the fair value price boundary where supply and demand are perfectly balanced. Traders use it to determine whether an asset is overextended or safely priced.
 
+* **Lucid** (adjective): Expressed clearly; easy to understand. *Example:* "Providing lucid documentation during a smart contract upgrade prevents panic and keeps community trust intact."
 
 
 
