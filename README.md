@@ -50,6 +50,8 @@ Update 1
 
 * **Pragmatic** (adjective): Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations. *Example:* "Taking a pragmatic approach to moderate scaling helps a community manager optimize response times during peak network congestion."
 
+* **Incentive Alignment Design:** The deliberate structuring of a protocol's testnet rewards or ecosystem campaigns to ensure that community growth activities directly drive long-term network value rather than attracting temporary mercenary capital.
+
 
 
 
