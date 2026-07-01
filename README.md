@@ -117,6 +117,7 @@ Update 1
 * **Prudent** (adjective): Acting with or showing care and thought for the future. *Example:* "It is prudent for an on-chain community moderator to cross-verify smart contract deployment addresses before pinning public announcements."
 
 
+* **Timeframe Confluence (HTF/LTF):** An advanced analysis principle where market structure shifts on a lower timeframe (LTF) align perfectly with key historical support, resistance, or order blocks on a higher timeframe (HTF), drastically increasing the probability of a successful trend reversal.
 
 
 
