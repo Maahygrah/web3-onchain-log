@@ -158,6 +158,8 @@ Update 1
 
 * **Cohesive** (adjective): Characterized by or forming a whole; logically connected or unified. *Example:* "A cohesive moderation team ensures that announcements, technical support answers, and crisis management protocols remain completely consistent across all social channels."
 * **Cross-Chain Infrastructure Monitoring:** An operational framework utilizing automated indexing nodes to track cross-chain asset bridges and transaction volumes in real-time, allowing core operators to detect smart contract anomalies instantly.
+* **Daily Bias Framework:** An institutional analysis process used to determine the highest-probability direction of the daily candle by examining higher-timeframe order flow, liquidity draws, and market structure shifts on the daily chart.
+
 
 
 
