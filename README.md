@@ -75,6 +75,7 @@ Update 1
 * **Decentralized Governance Frameworks:** The structural pipeline where community proposals progress from off-chain discussion forums to Snapshot signaling polls, culminating in binding, on-chain execution via multi-signature smart contracts.
 * **Change of Character (CHoCH):** The first internal indication of a potential trend reversal on a lower timeframe. It occurs when price breaks a minor internal swing high or low, signaling a shift in market sentiment before a major market structure break takes place.
 
+* **Prerequisite** (noun): A thing that is required as a prior condition for something else to happen or exist. *Example:* "Verifying a wallet address and achieving an active role status is a prerequisite for participating in the upcoming incentivized testnet campaign."
 
 
 
