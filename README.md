@@ -27,5 +27,6 @@ Update 1
 ## Section 4: Moderation & Operational Safety
 * **Escalation Path:** A structured protocol for handling community disruptions. It outlines clear, sequential steps for moderators—ranging from an initial warning to a temporary mute, and finally a permanent ban for repeated rule violations.
 
+* **Order Block (OB):** A specific zone where institutional buyers or sellers previously placed massive orders, marked by the last opposite-colored candle before an aggressive market structure break. Price frequently reacts strongly when retesting these areas.
 
 
