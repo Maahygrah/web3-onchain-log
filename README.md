@@ -127,6 +127,7 @@ Update 1
 
 * **Algorithmic Kill Zones:** Specific high-volatility time windows (such as the London Open or New York Open) where institutional trading algorithms are most active. These windows often feature aggressive liquidity sweeps to trap retail traders before establishing the true daily market trend.
 
+* **Pivotal** (adjective): Of crucial importance in relation to the development or success of something else. *Example:* "Establishing a secure, multi-signature wallet is a pivotal step before executing the first phase of the decentralized governance rollout."
 
 
 
