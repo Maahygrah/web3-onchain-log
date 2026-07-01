@@ -42,5 +42,8 @@ Update 1
 
 * **Liquidity Imbalance (LI):** A market condition occurring when a single, massive market order creates a vertical price movement, leaving buy-side or sell-side orders completely unfilled on the chart. Traders track these gaps as future magnets for price action.
 
+* **Coherent** (adjective): Logical, consistent, and completely clear. *Example:* "A community manager must present a coherent roadmap to long-term token holders to ensure project credibility during volatile market phases."
+
+
 
 
