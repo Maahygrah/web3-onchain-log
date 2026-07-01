@@ -78,6 +78,8 @@ Update 1
 * **Prerequisite** (noun): A thing that is required as a prior condition for something else to happen or exist. *Example:* "Verifying a wallet address and achieving an active role status is a prerequisite for participating in the upcoming incentivized testnet campaign."
 * **Asymmetric Information Dissemination:** An operational strategy to ensure critical project updates, tokenomics structural changes, or testnet launch dates are distributed uniformly across all channels simultaneously, protecting the community from insider advantages.
 
+* **Equal Highs / Equal Lows (EQH / EQL):** Chart formations where price peaks or troughs flatten out at nearly identical price levels. These formations represent highly visible engineering of liquidity, as buy-stops or sell-stops build up heavily beyond them, acting as magnets for future sweeping price moves.
+
 
 
 
