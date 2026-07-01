@@ -29,4 +29,6 @@ Update 1
 
 * **Order Block (OB):** A specific zone where institutional buyers or sellers previously placed massive orders, marked by the last opposite-colored candle before an aggressive market structure break. Price frequently reacts strongly when retesting these areas.
 
+* **Adhere** (verb): To believe in and follow the practices of, or to stick fast to a rule or standard. *Example:* "Community moderators must strictly adhere to the operational safety protocols to maintain project integrity during high-traffic testnet campaigns."
+
 
