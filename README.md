@@ -11,3 +11,9 @@ Update 1
 
 * **Fair Value Gap (FVG):** A three-candle structure where an aggressive price move creates an imbalance or liquidity void, leaving a gap that price often returns to fill before continuing its trend.
 
+
+
+## Section 3: Professional Lexicon & Vocabulary
+* **Mitigate** (verb): To make something less severe, dangerous, or serious. *Example:* "Implementing robust, multi-tier on-chain criteria helps mitigate the risk of automated bot clusters diluting airdrop distributions."
+
+
