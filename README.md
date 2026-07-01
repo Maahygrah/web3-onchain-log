@@ -99,6 +99,7 @@ Update 1
 * **Efficacy** (noun): The ability to produce a desired or intended result. *Example:* "Regular testing of decentralized application verification steps is necessary to ensure the efficacy of anti-bot bot filters during high-traffic campaign deployments."
 
 
+* **Catalyst Candle:** An exceptionally high-momentum, large-bodied candle that completely engulfs previous tight consolidation ranges. This candle confirms an institutional injection of capital and validates the beginning of a fresh market structure trend.
 
 
 
