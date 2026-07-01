@@ -186,6 +186,8 @@ Update 1
 
 * **Unprecedented** (adjective): Never done or known before. *Example:* "Managing an on-chain community network that hits over one million active transactions in its first week requires handling an unprecedented amount of technical support data."
 
+## Section 13: Protocol Stress-Testing & Scaling
+* **Simulated Network Congestion Profiling:** An operational standard where core engineers intentionally flood a testnet environment with simulated bot traffic to measure block propagation delays, gas limit spikes, and community RPC node resilience before moving to mainnet.
 
 
 
