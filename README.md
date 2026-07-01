@@ -40,5 +40,7 @@ Update 1
 ## Section 5: Campaign Operations & Onboarding
 * **Feedback Loop Optimization:** A structured method of gathering user bug reports during decentralized application (dApp) testnets, organizing them by severity, and delivering them directly to core developers to rapidly improve UI/UX.
 
+* **Liquidity Imbalance (LI):** A market condition occurring when a single, massive market order creates a vertical price movement, leaving buy-side or sell-side orders completely unfilled on the chart. Traders track these gaps as future magnets for price action.
+
 
 
