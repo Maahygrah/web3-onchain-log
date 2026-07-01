@@ -91,6 +91,10 @@ Update 1
 * **Reclaimed Order Block:** A historical order block zone that price previously breached without immediate reaction, but later acts as a highly validated support or resistance level when price returns to it during a sustained trend.
 * **Paramount** (adjective): More important than anything else; supreme. *Example:* "Maintaining strict security protocols during multi-signature smart contract executions is of paramount importance to secure ecosystem assets."
 
+## Section 7: Ambassador Programs & Distributed Leadership
+* **Tiered Ambassador Structuring:** An operational framework that scales global community reach by dividing active contributors into specialized cohorts (e.g., content creators, technical moderators, translators) with performance-based monthly distribution keys.
+
+
 
 
 
