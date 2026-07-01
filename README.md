@@ -182,6 +182,7 @@ Update 1
 
 
 
+* **Engineered Liquidity Pools:** A market phenomenon where algorithmic price delivery intentionally creates relatively equal highs or equal lows, enticing retail traders to place heavy stop-loss clusters just above or below these levels so that institutional orders can buy or sell deep volume smoothly.
 
 
 
