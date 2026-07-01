@@ -8,3 +8,6 @@ Update 1
 
 ## Section 2: Technical Analysis & Market Structures
 * **Market Structure Shift (MSS):** A distinct change in market direction on a specific timeframe, confirmed when price aggressively breaks past a previous key swing high or swing low, signaling an impending trend reversal.
+
+* **Fair Value Gap (FVG):** A three-candle structure where an aggressive price move creates an imbalance or liquidity void, leaving a gap that price often returns to fill before continuing its trend.
+
