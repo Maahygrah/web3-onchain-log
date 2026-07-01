@@ -33,3 +33,6 @@ Update 1
 
 * **On-Chain Attestation:** A cryptographic proof or digital credential deployed on-chain that verifies a user's real-world identity or specific wallet activity without exposing private data, serving as a powerful layer against bot clusters.
 
+* **Premium vs. Discount Zones:** An analysis rule using a Fibonacci retracement tool to divide a price range at the 50% equilibrium level. Buying in the discount zone (below 50%) offers lower risk, while selling occurs in the premium zone (above 50%).
+
+
