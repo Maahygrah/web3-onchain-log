@@ -132,6 +132,7 @@ Update 1
 ## Section 9: Technical Onboarding & Support
 * **Frictionless Onboarding Pipelines:** The strategic design of user journey pathways that minimize the technical friction required for a new user to set up a non-custodial wallet, secure testnet tokens, and execute their first smart contract interaction without overwhelming support staff.
 * **Smart Money Technique (SMT) Divergence:** A crack in correlation between closely related assets (such as Bitcoin and Ethereum). It occurs when one asset fails to make a higher high or lower low while the other asset succeeds, signaling heavy institutional accumulation or distribution behind the scenes.
+* **Eradicate** (verb): Destroy completely; put an end to. *Example:* "Implementing automated token-gating verification is one of the most effective ways to eradicate spam links from community support channels."
 
 
 
