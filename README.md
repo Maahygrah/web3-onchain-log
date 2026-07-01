@@ -20,5 +20,7 @@ Update 1
 
 ## Section 3: Community Growth Metrics
 * **DAU / WAU Ratio:** The ratio of Daily Active Users to Weekly Active Users. This metric helps measure community retention and engagement, showing if members return daily or only drop in for occasional campaigns.
+* **Liquidity Pool:** A crowdsourced pool of cryptocurrencies or tokens locked in a smart contract that facilitates automated, decentralized trading on a decentralized exchange (DEX).
+
 
 
