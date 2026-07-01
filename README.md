@@ -176,6 +176,7 @@ Update 1
 * **Meticulous** (adjective): Showing great attention to detail; very careful and precise. *Example:* "Conducting a meticulous audit of discord webhook permissions is vital to prevent unauthorized bots from publishing malicious links in announcement channels."
 ## Section 12: Network Infrastructure & Validator Operations
 * **Distributed Validator Performance Benchmarking:** A structured tracking framework that analyzes node uptime, block proposal frequencies, and slashing risks across decentralized consensus networks to guarantee the physical security and stability of the underlying protocol.
+* **Institutional Order Flow Tracking:** The advanced practice of analyzing sequential higher-timeframe candle closures to verify whether major market structures are remaining bullish or bearish, ensuring shorter-term executions are completely aligned with institutional momentum.
 
 
 
