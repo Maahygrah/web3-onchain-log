@@ -129,6 +129,9 @@ Update 1
 
 * **Pivotal** (adjective): Of crucial importance in relation to the development or success of something else. *Example:* "Establishing a secure, multi-signature wallet is a pivotal step before executing the first phase of the decentralized governance rollout."
 
+## Section 9: Technical Onboarding & Support
+* **Frictionless Onboarding Pipelines:** The strategic design of user journey pathways that minimize the technical friction required for a new user to set up a non-custodial wallet, secure testnet tokens, and execute their first smart contract interaction without overwhelming support staff.
+
 
 
 
